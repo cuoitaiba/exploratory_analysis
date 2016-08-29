@@ -1,5 +1,5 @@
 ---
-title: "Capital One Data Science Challenge - Baby Names"
+title: "Exploratory Analysis on newborn names since 1910"
 author: "Tri Nguyen"
 output: html_document
 code_folding: hide
